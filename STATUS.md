@@ -20,9 +20,9 @@
 - C1: Completed and tested.
 - C2: Completed and tested.
 - C3: Completed and tested.
-- C4: Not started.
-- C5: Not started.
-- D1: Not started.
+- C4: Completed and tested.
+- C5: Completed and tested.
+- D1: Completed and tested.
 - D2: Not started.
 - E1: Not started.
 - E2: Not started.
