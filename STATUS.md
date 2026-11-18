@@ -19,7 +19,7 @@
 - B3: Completed and tested.
 - C1: Completed and tested.
 - C2: Completed and tested.
-- C3: Not started.
+- C3: Completed and tested.
 - C4: Not started.
 - C5: Not started.
 - D1: Not started.
