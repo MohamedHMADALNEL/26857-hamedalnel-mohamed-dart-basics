@@ -1,9 +1,10 @@
 
+
 # Assignment Status
 
-**Student:** Mohamed Hamedalnel  
-**Reg No:** 26857  
-**D:** 7  
+**Student:** Mohamed Hamedalnel
+**Reg No:** 26857
+**D:** 7
 **T:** 57
 
 ## Done
@@ -11,31 +12,16 @@
 - Git, Dart SDK, and VS Code installed.
 - README.md completed.
 - Required project files created.
-- A1: Completed and tested.
-- A2: Completed and tested.
-- B1: Completed and tested.
-- B2: Completed and tested.
-- B3: Completed and tested.
-- C1: Completed and tested.
-- C2: Completed and tested.
-- C3: Completed and tested.
-- C4: Completed and tested.
-- C5: Completed and tested.
-- D1: Completed and tested.
-- D2: Completed and tested.
-- E1: Completed.
-- E2: Completed.
-- E3: Fixed and tested.
-- E4: Completed and tested.
-- F1: formatRwf() completed and tested.
-- F2: isValidPin() completed and tested.
-- F3: sendMoney() completed and tested.
-- F4: buyAirtime() completed and tested.
-- F Main: Transactions and additional tests completed.
-- G: Debugging log and final reflection completed.
+- A1 to A2: Completed and tested.
+- B1 to B3: Completed and tested.
+- C1 to C5: Completed and tested.
+- D1 to D2: Completed and tested.
+- E1 to E4: Completed and tested.
+- F1 to F4 and Main: Completed and tested.
+- G: Debugging log and reflection completed.
 
 ## In progress
-- None.
+None.
 
 ## Stuck on
-- No technical problems currently.
+No technical problems currently.
